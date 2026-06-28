@@ -37,13 +37,13 @@ No drag-and-drop. No boilerplate. Just describe what you want.
 
 <div align="center">
 
-**Without ZEROX AI**
+**showing how ZEROX AI**
 
 <img src="Assets/Images/before.jpg" width="80%" alt="Before — Empty Godot scene" />
 
 <br/><br/>
 
-**With ZEROX AI**
+**Final Result ZEROX AI**
 
 <img src="Assets/Images/after.jpg" width="80%" alt="After — AI generated scene with nodes and scripts" />
 
@@ -234,7 +234,7 @@ Create a HUD with a health bar, score label, and pause button using Control node
 | Godot Engine | 4.x (tested on 4.6.3 stable) |
 | Internet | Required for AI API calls |
 | API Key | Any major AI provider — OpenAI, Claude, Gemini, Mistral, Groq, DeepSeek, and more |
-| OS | Windows, Linux, macOS | Android 
+| OS | Windows, Linux, macOS | Android |
 
 ---
 
