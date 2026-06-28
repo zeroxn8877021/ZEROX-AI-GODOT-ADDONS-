@@ -234,7 +234,7 @@ Create a HUD with a health bar, score label, and pause button using Control node
 | Godot Engine | 4.x (tested on 4.6.3 stable) |
 | Internet | Required for AI API calls |
 | API Key | Any major AI provider — OpenAI, Claude, Gemini, Mistral, Groq, DeepSeek, and more |
-| OS | Windows, Linux, macOS |
+| OS | Windows, Linux, macOS | Android 
 
 ---
 
@@ -289,7 +289,7 @@ Add a GDScript rotation script to the cube node.
 
 ```
 MIT License
-Copyright (c) 2024 Paras Sharma / Team Zerox
+Copyright (c) 2026 Paras Sharma / Team Zerox
 ```
 
 <div align="center">
